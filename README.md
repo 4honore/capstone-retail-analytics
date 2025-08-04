@@ -51,7 +51,7 @@ This capstone project focuses on customer segmentation and churn prediction for 
 ## 📊 Dataset Summary
 
 - **Dataset Name:** Online Retail  
-- **Source:** UCI Machine Learning Repository  
+- **Source:** UCI Machine Learning Repository https://archive.ics.uci.edu/dataset/352/online+retail  
 - **Type:** Structured Excel file  
 - **Size:** ~540,000 rows × 8 columns  
 - **Attributes:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country  
